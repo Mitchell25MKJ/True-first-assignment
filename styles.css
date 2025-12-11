@@ -24,6 +24,7 @@
     align-items: center;
     text-align: center;
 }
-.biopic{
-  
+.pic{
+  border-radius: 50px;
+  box-shadow: 0 4px 50px black;
 }
